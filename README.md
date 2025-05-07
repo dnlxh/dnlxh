@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, Ich bin Daniel.<br><br>Ich befinde mich aktuell in einer Umschulung zum Fachinformatiker in der Anwendungsentwicklung.<br>Aktuell lerne ich aktiv Java,JavaScript.
+Hi 👋, Ich bin Daniel.<br><br>Ich befinde mich aktuell in einer Umschulung zum Fachinformatiker in der Anwendungsentwicklung.<br>Aktuell lerne ich aktiv JavaScript.
 
 
 # 💻 Tech Stack:
